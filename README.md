@@ -1,1 +1,1 @@
-## Preview: https://suwj6601.github.io/forgot_esponsive/#home
+## Preview: https://suwj6601.github.io/forgot_responsive/#home
